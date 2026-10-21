@@ -16,7 +16,7 @@ Requirements: Java 17+ and Maven (or IntelliJ IDEA).
 mvn spring-boot:run
 ```
 
-Then open http://localhost:8080
+Then open http://localhost:8081
 
 ## Documentation
 
